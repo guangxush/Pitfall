@@ -9,3 +9,7 @@ public static String getUniversityWithOptional(University university){
     }
 ```
 [完整代码](./src/main/java/RemoveIfElseNPE.java)
+
+
+### Java8比较Map和List里面对象元素是否一样
+
